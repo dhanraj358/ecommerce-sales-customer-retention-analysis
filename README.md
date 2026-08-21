@@ -124,9 +124,7 @@ Raw Data
    ↓
 Data Cleaning & Preprocessing
    ↓
-Feature Engineering
-   ↓
-EDA
+  EDA
    ↓
 SQL Analysis
    ↓
